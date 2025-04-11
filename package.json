@@ -1,6 +1,5 @@
 {
   "devDependencies": {
-    "tailwindcss": "^3.4.17",
     "tailwindcss-animated": "^2.0.0"
   },
   "name": "portfolio",
